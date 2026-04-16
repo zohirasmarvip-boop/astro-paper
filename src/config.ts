@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
+  website: "https://Liorbx.com/", // replace this with your deployed domain
+  author: "Zouhair.B",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  desc: "Get the latest gaming news, patch updates, and feature deep-dives at LIORBX. Your daily destination for everything gaming. Keep your game updated and your knowledge sharp.",
+  title: "LIORBX",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
