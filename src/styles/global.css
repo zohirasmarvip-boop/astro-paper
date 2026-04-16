@@ -68,12 +68,3 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
-header {
-  position: sticky;
-  top: 0;
-  z-index: 50; /* لضمان ظهور الرأس فوق أي شيء آخر */
-  background-color: var(--color-fill); /* لضمان أن الخلفية غير شفافة عند النزول */
-  backdrop-filter: blur(10px); /* إضافة لمسة جمالية (خلفية مشوشة قليلاً) */
-  border-bottom: 1px solid var(--color-border); /* إضافة خط فاصل خفيف */
-}
-
